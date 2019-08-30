@@ -1,0 +1,12 @@
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe.config
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.pdb
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.csprojResolveAssemblyReference.cache
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.Form1.resources
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.Properties.Resources.resources
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.csproj.GenerateResource.Cache
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.exe
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.pdb
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\MASAÜSTÜ HERŞEY\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe.config
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\MASAÜSTÜ HERŞEY\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.exe
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\MASAÜSTÜ HERŞEY\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.pdb
